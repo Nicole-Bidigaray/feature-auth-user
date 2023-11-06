@@ -40,5 +40,5 @@ lerna-debug.log*
 # Docker
 data
 
-private_key.pem
-public_key.pem
+/private_key.pem
+/public_key.pem
